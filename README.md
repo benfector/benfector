@@ -6,7 +6,7 @@
 - 🌍 Brazil.
 
 ---
-![GIF](/gif/gi.gif)
+![GIF](/gif/cat.gif)
 
 ### 🧠 Tools & Stack
 ![Assembly](https://img.shields.io/badge/Assembly-F7DF1E?style=flat&logo=assembly-language&logoColor=black)
